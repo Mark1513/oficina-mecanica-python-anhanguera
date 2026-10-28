@@ -1,0 +1,33 @@
+test_aceita_placa_mercosul (test_oficina.CadastroTest.test_aceita_placa_mercosul) ... ok
+test_normaliza_placa_e_campos (test_oficina.CadastroTest.test_normaliza_placa_e_campos) ... ok
+test_rejeita_dados_invalidos (test_oficina.CadastroTest.test_rejeita_dados_invalidos) ... ok
+test_rejeita_duplicado_sem_alterar_cadastro (test_oficina.CadastroTest.test_rejeita_duplicado_sem_alterar_cadastro) ... ok
+test_veiculo_imutavel (test_oficina.CadastroTest.test_veiculo_imutavel) ... ok
+test_demo_em_processo_real (test_oficina.MenuTest.test_demo_em_processo_real) ... ok
+test_fim_da_entrada_encerra_sem_falha (test_oficina.MenuTest.test_fim_da_entrada_encerra_sem_falha) ... ok
+test_fluxo_completo_do_menu (test_oficina.MenuTest.test_fluxo_completo_do_menu) ... ok
+test_listas_vazias (test_oficina.MenuTest.test_listas_vazias) ... ok
+test_recuperacao_de_entradas_invalidas (test_oficina.MenuTest.test_recuperacao_de_entradas_invalidas) ... ok
+test_servico_invalido_nao_entra_na_ordem (test_oficina.MenuTest.test_servico_invalido_nao_entra_na_ordem) ... ok
+test_abre_ordem_com_veiculo_cadastrado (test_oficina.OrdemTest.test_abre_ordem_com_veiculo_cadastrado) ... ok
+test_centavos_sem_imprecisao (test_oficina.OrdemTest.test_centavos_sem_imprecisao) ... ok
+test_consulta_nao_altera_lista (test_oficina.OrdemTest.test_consulta_nao_altera_lista) ... ok
+test_numeracao_sequencial (test_oficina.OrdemTest.test_numeracao_sequencial) ... ok
+test_ordem_vazia (test_oficina.OrdemTest.test_ordem_vazia) ... ok
+test_ordens_independentes (test_oficina.OrdemTest.test_ordens_independentes) ... ok
+test_rejeita_item_invalido (test_oficina.OrdemTest.test_rejeita_item_invalido) ... ok
+test_rejeita_ordem_inexistente (test_oficina.OrdemTest.test_rejeita_ordem_inexistente) ... ok
+test_total_exato_e_resumo (test_oficina.OrdemTest.test_total_exato_e_resumo) ... ok
+test_valida_construtor (test_oficina.OrdemTest.test_valida_construtor) ... ok
+test_veiculo_ausente_nao_consome_numero (test_oficina.OrdemTest.test_veiculo_ausente_nao_consome_numero) ... ok
+test_arredonda_meio_centavo_para_cima (test_oficina.ServicoTest.test_arredonda_meio_centavo_para_cima) ... ok
+test_formata_reais (test_oficina.ServicoTest.test_formata_reais) ... ok
+test_preco_imutavel (test_oficina.ServicoTest.test_preco_imutavel) ... ok
+test_rejeita_valores_invalidos (test_oficina.ServicoTest.test_rejeita_valores_invalidos) ... ok
+test_servico_abstrato_nao_pode_ser_instanciado (test_oficina.ServicoTest.test_servico_abstrato_nao_pode_ser_instanciado) ... ok
+test_tipos_de_servico_e_virgula_decimal (test_oficina.ServicoTest.test_tipos_de_servico_e_virgula_decimal) ... ok
+
+----------------------------------------------------------------------
+Ran 28 tests in 0.097s
+
+OK

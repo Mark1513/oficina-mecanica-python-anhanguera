@@ -1,0 +1,18 @@
+SISTEMA DE OFICINA MECÂNICA | DEMONSTRAÇÃO
+Autor: Marcos Paulo Santos Mota | Anhanguera | Aula 16 - Unidade 4
+Dados demonstrativos; os valores são exemplos acadêmicos.
+
+Veículo cadastrado: ABC1D23 | Fiat Argo | Proprietário: Marcos Paulo Santos Mota
+Ordem 001 aberta.
+Serviço lançado: Troca de óleo: R$ 150,00
+Serviço lançado: Alinhamento: R$ 80,00
+
+ORDEM DE SERVIÇO Nº 001
+Veículo: Fiat Argo | Placa: ABC1D23
+Proprietário: Marcos Paulo Santos Mota
+Serviços:
+  1. Troca de óleo: R$ 150,00
+  2. Alinhamento: R$ 80,00
+TOTAL DO ORÇAMENTO: R$ 230,00
+
+Demonstração concluída com sucesso.
